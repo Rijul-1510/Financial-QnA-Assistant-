@@ -1,6 +1,11 @@
 streamlit==1.49.1
 pandas==2.2.3
+numpy>=1.26.0
 pdfplumber==0.9.0
 plotly==5.22.0
 requests==2.32.3
 openpyxl==3.1.2
+xlrd==2.0.1
+PyMuPdf
+chromadb==0.5.11
+typing_extensions>=4.8.0
