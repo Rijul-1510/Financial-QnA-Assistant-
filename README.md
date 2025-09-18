@@ -97,6 +97,7 @@ Financial_Document_QnA_Assistant/
 ![WhatsApp Image 2025-09-18 at 22 49 16_85cb3d47](https://github.com/user-attachments/assets/49ae1a37-c0bc-4f54-a179-acaaca987407)
 
 Starting page with example financial queries and dashboard.
+
 2. Key Financial Dashboard
 
 ![WhatsApp Image 2025-09-18 at 22 51 54_46ed6aa2](https://github.com/user-attachments/assets/475add5c-ec82-445a-b070-49d760827c01)
