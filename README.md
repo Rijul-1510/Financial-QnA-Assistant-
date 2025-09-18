@@ -93,16 +93,32 @@ Financial_Document_QnA_Assistant/
 ---
 
 ## 📈 Results & Performance
+1. Landing Page
+![WhatsApp Image 2025-09-18 at 22 49 16_85cb3d47](https://github.com/user-attachments/assets/49ae1a37-c0bc-4f54-a179-acaaca987407)
+
+Starting page with example financial queries and dashboard.
+2. Key Financial Dashboard
+
+![WhatsApp Image 2025-09-18 at 22 51 54_46ed6aa2](https://github.com/user-attachments/assets/475add5c-ec82-445a-b070-49d760827c01)
+
+Displays Revenue, Net Income, and Total Assets in both numeric and chart formats for a quick financial overview.
+
+3. Extracted Metrics Table
+
+![WhatsApp Image 2025-09-18 at 22 52 11_c371f92a](https://github.com/user-attachments/assets/7bd83360-5771-45a9-af5f-cc768cd8dc05)
+
+Structured extraction of financial metrics (revenue, profit, liabilities, equity, etc.) directly from uploaded PDF/Excel.
+
+4. AI Assistant Chat Interface
+
+![WhatsApp Image 2025-09-18 at 22 47 32_b0813693](https://github.com/user-attachments/assets/31c12ce7-bf77-427a-a55f-187e6c4c71f9)
+
+Interactive QnA chat where users can ask financial questions in plain English and receive answers grounded in uploaded documents.
+
 
 * Successfully extracts **multi-year metrics** (revenue, profit, assets, liabilities).
 * Answers natural language queries with high accuracy using **semantic search + LLM reasoning**.
 * Handles **structured (tables)** and **unstructured (text)** data equally well.
-
-Performance depends on:
-
-* **LLM backend** (local Ollama / external APIs).
-* **Vector database efficiency** for semantic retrieval.
-* **Document complexity** (clean tabular vs scanned).
 
 ---
 
