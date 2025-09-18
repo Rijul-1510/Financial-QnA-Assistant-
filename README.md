@@ -83,12 +83,12 @@ Financial_Document_QnA_Assistant/
 
 ## ✨ Key Features
 
-* 📄 **Multi-format support**: Handles **PDF** (via PyMuPDF, pdfplumber) and **Excel**.
-* 🧩 **Chunking**: Splits large documents for efficient vector embedding & retrieval.
-* 🔎 **Vector Semantic Search**: Embeds chunks & stores in a **vector database** for fast retrieval.
-* 🧠 **RAG with LLM**: Ensures answers are contextual and document-grounded.
-* 📊 **Interactive Visualizations**: Revenue, profit, and multi-year trends.
-* 💾 **Downloadable Outputs**: Export extracted financial tables.
+* **Multi-format support**: Handles **PDF** (via PyMuPDF, pdfplumber) and **Excel**.
+* **Chunking**: Splits large documents for efficient vector embedding & retrieval.
+* **Vector Semantic Search**: Embeds chunks & stores in a **vector database** for fast retrieval.
+* **RAG with LLM**: Ensures answers are contextual and document-grounded.
+* **Interactive Visualizations**: Revenue, profit, and multi-year trends.
+* **Downloadable Outputs**: Export extracted financial tables.
 
 ---
 
@@ -108,12 +108,12 @@ Performance depends on:
 
 ## 🔮 Future Work
 
-* 🔗 **LangChain Integration**: Orchestration of multi-step reasoning pipelines.
-* 🤖 **Support for external LLMs**: Gemini, GPT-4, Claude, OpenAI APIs.
-* 📊 **Advanced Analytics**: Ratio analysis (ROE, margins, liquidity).
-* 🖼️ **Table Structure Preservation**: Improve parsing of complex nested tables.
-* ☁️ **Cloud Deployment**: Expose as a SaaS API.
-* 🔍 **Multi-document QnA**: Compare across multiple companies/years.
+* **LangChain Integration**: Orchestration of multi-step reasoning pipelines.
+* **Support for external LLMs**: Gemini, GPT-4, Claude, OpenAI APIs.
+* **Advanced Analytics**: Ratio analysis (ROE, margins, liquidity).
+* **Table Structure Preservation**: Improve parsing of complex nested tables.
+* **Cloud Deployment**: Expose as a SaaS API.
+* **Multi-document QnA**: Compare across multiple companies/years.
 
 ---
 
@@ -136,4 +136,3 @@ Performance depends on:
 
 ---
 
-Would you like me to also **add example screenshots & sample queries** in the README (so it looks more like a polished GitHub project)?
