@@ -4,7 +4,7 @@ An interactive **LLM-powered application** that processes financial documents (P
 The system combines **document parsing, RAG (Retrieval-Augmented Generation), and vector semantic search** to deliver accurate insights about revenue, 
 expenses, profits, and other financial metrics.
 
-## Overview
+## 🚀 Overview
 
 Businesses generate complex financial statements across formats (PDFs, Excels). Extracting and analyzing these requires significant manual effort.
 
